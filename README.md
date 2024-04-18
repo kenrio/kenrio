@@ -1,5 +1,7 @@
 ### Hey there 👋
 
+- 👨‍💻 Studying at 42 Tokyo.
+
 <!--
 **kenrio/kenrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

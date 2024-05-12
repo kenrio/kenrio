@@ -1,6 +1,7 @@
 ### My profile 🙂
 
-- 👨‍💻 Learning software engineering at 42 Tokyo.
+- 👨‍💻 Learning software engineering at 42 Tokyo (2024 ~).
+- 👾 Former project manager at WOW (2020 ~ 2023).
 
 <!--
 **kenrio/kenrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

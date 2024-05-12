@@ -1,4 +1,4 @@
-### Hey there 👋
+### My profile 🙂
 
 - 👨‍💻 Learning software engineering at 42 Tokyo.
 

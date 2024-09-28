@@ -1,5 +1,3 @@
-### My profile 🙂
-
 - 👨‍💻 Learning software engineering at 42 Tokyo (2024.04 ~).
 - 👾 Project manager at WOW (2020.09 ~ 2024.02).
 

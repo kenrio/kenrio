@@ -1,6 +1,6 @@
-- 💻 Learning software engineering at 42 Tokyo
+- [42 Tokyo](https://42tokyo.jp/ "42 Tokyo HP") : Learning software engineering at 42 Tokyo 💻
     - Common Core: 2024.04 ~
-- 😮 Project manager / Assistant producer at WOW (2020.09 ~ 2024.03)
+- [WOW](https://www.w0w.co.jp/en "WOW HP") : Project manager / Assistant producer at WOW (2020.09 ~ 2024.03) 😮
 
 <!--
 **kenrio/kenrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

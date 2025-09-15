@@ -1,9 +1,9 @@
 <ul>
-    <li><a href="https://42tokyo.jp/" target="_blank">42 Tokyo</a> : Learning software engineering at 42 Tokyo 💻</li>
+    <li><a href="https://42tokyo.jp/" target="_blank">42 Tokyo</a> : Learning software engineering 💻</li>
     <ul>
         <li>Common Core: 2024.04 ~</li>
     </ul>
-    <li><a href="https://www.w0w.co.jp/en" target="_blank">WOW</a> : Project manager / Assistant producer at WOW (2020.09 ~ 2024.03) 😮</li>
+    <li><a href="https://www.w0w.co.jp/en" target="_blank">WOW</a> : Project manager / Assistant producer (2020.09 ~ 2024.03) 😮</li>
 </ul>
 
 <!--

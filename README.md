@@ -1,4 +1,5 @@
 <ul>
+    <li>Somewhere in the space 🛰️</li>
     <li><a href="https://42tokyo.jp/" target="_blank">42 Tokyo</a> : Learning software engineering 💻</li>
     <ul>
         <li>Common Core: 2024.04 ~ 2026.03</li>

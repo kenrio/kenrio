@@ -1,8 +1,8 @@
 <ul>
-    <li>Somewhere in the space 🛰️</li>
-    <li><a href="https://42tokyo.jp/" target="_blank">42 Tokyo</a> : Learning software engineering 💻</li>
+    <li><a href="https://42tokyo.jp/" target="_blank">42 Tokyo</a> : Learning software engineering (2024.04 ~ ) 💻</li>
     <ul>
         <li>Common Core: 2024.04 ~ 2026.03</li>
+        <li>Advanced: 2026.03 ~ </li>
     </ul>
     <li><a href="https://www.w0w.co.jp/en" target="_blank">WOW</a> : Project manager / Assistant producer (2020.09 ~ 2024.03) 😮</li>
 </ul>
